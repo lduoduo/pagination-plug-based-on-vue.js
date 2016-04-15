@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>test vue</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="grid_plug.css">
+</head>
+<body>
+	<div class="vue-main" id="mytable">
+		<div class="table-list">
+			<table class="table" v-cloak>
+				<thead class="theader">
+					<tr>
+						<th v-for="item in headers" data-head="{{item.id}}" v-bind:style="{width: item.width}">
+							<a v-if="item.sortable" class="header-sorting" v-on:click="sortPage($index)">
+								<div class="header-title">{{item.title}}<span v-if="item.sortable &&  para.sortby == item.id && para.sortdir && para.sortdir != ''" class="{{para.sortdir}} header-sorticon"></span></div>
+								
+							</a>
+							<span v-else>{{item.title}}</span> 
+						</th>
+					</tr>
+				</thead>
+				<tbody class="tbody">
+					<tr v-if="lists.length == 0"></tr>
+					<tr v-else v-for="items in lists | limitBy pageSize startIndex"  track-by='$index'>
+						<td v-for="item in headers">{{items[item.id]}}</td>
+					</tr>
+				</tbody>
+			</table>
+			<div class="slider slider-left"></div>
+			<div class="slider slider-right"></div>
+			<ol class="table-indicator" v-show="isPagination" v-cloak>
+				<li v-for="i in pageCount" v-on:click="switchPage($index);" class="{{(i+1 == pageNo? 'active':'')}}">{{i + 1}}</li>
+				<li>当前第{{pageNo}}页,共{{pageCount}}页,{{totalcount}}条</li>
+			</ol>
+		</div>	
+	</div>
+	<script src="//cdn.bootcss.com/zepto/1.1.6/zepto.js"></script>
+	<script src="vue.js"></script>
+	<script src="grid_plug.js"></script>
+	<script src="index.js"></script>
+</body>
+</html>

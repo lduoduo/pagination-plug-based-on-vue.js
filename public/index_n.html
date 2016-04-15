@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Vue.js Demo1 - 本地分页</title>
+    <link rel="stylesheet" type="text/css" href="style_n.css">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <meta name="full-screen" content="yes" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="browsermode" content="application" />
+    <meta name="x5-page-mode" content="app" />
+</head>
+
+<body id="list">
+    <ul v-show="items.length == 0 ? false : true" style="display: none;">
+        <li v-for="item in items | limitBy pagesize index*pagesize">
+            <dl>
+                <dt class="more">
+                    <img v-bind:src="item.LineImageUrl" alt="" />
+                    <p class="more-adress">
+                        <span>{{ item.CityName }}</span></p>
+                </dt>
+                <dd class="name">{{ item.LineMainTitle }}</dd>
+                <dd class="price">
+                    <span><strong>{{ item.LineAmountDirt | currency '&yen;' }}</strong> 起/份</span>
+                </dd>
+                <dd class='other'>
+                    <span>{{ item.TravelDays }}天 {{ item.TravelDays > 1 ? (item.TravelDays - 1) :  '无'}}晚</span>
+                    <span>{{ item.TitleLabel }}</span>
+                </dd>
+            </dl>
+        </li>
+    </ul>
+    <ol v-show="this.items.length == 0 ? false : true"  style="display: none;">
+        <li v-for="n in pageLength" v-on:click="changeIndex($index)">
+            {{ n + 1 }}
+        </li>
+    </ol>
+    <a href="index.html">index</a>
+    <script type="text/javascript" src="vue.js"></script>
+    <script type="text/javascript" src="http://apps.bdimg.com/libs/zepto/1.1.4/zepto.js"></script>
+    <script type="text/javascript" src="index_n.js"></script>
+</body>
+
+</html>

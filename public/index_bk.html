@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>test vue</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	<div class="vue-main" id="vueTest">
+		<p>在这里输入字符串吧：{{message}}</p>
+		<input type="text" v-model="name" v-on:keyup.enter="newMessage" placeholder="姓名">
+		<input type="text" v-model="message" v-on:keyup.enter="newMessage" placeholder="内容">
+		<a href="#" v-on:click="removeTodo($index)"></a>
+		<ul class="message-list">
+			<li v-for="item in lists | limitBy pageSize startIndex" class="message-detail">
+				{{item.text[0]}}:{{item.text[1]}}
+			</li>
+		</ul>
+		<ul class="message-indicator" v-show="isPagination">
+			<li v-for="i in pageCount" v-on:click="switchPage($index);">{{i + 1}}</li>
+			<li>当前第{{pageNo}}页,共{{pageCount}}页,{{totalcount}}条</li>
+		</ul>
+		<div class="table-list">
+			<table class="table" v-cloak>
+				<thead class="theader">
+					<tr>
+						<th v-for="item in headers" data-head="{{item.id}}" v-bind:style="{width: item.width}">
+							<a v-if="item.sortable" class="header-sorting" v-on:click="sortPage($index)">
+								<div class="header-title">{{item.title}}<span v-if="item.sortable &&  para.sortby == item.id && para.sortdir && para.sortdir != ''" class="{{para.sortdir}} header-sorticon"></span></div>
+								
+							</a>
+							<span v-else>{{item.title}}</span> 
+						</th>
+					</tr>
+				</thead>
+				<tbody class="tbody">
+					<tr v-if="lists.length == 0"></tr>
+					<tr v-else v-for="items in lists | limitBy pageSize startIndex"  track-by='$index'>
+						<td v-for="item in headers">{{items[item.id]}}</td>
+					</tr>
+				</tbody>
+			</table>
+			<ol class="table-indicator" v-show="isPagination" v-cloak>
+				<li v-for="i in pageCount" v-on:click="switchPage($index);" class="{{(i+1 == pageNo? 'active':'')}}">{{i + 1}}</li>
+				<li>当前第{{pageNo}}页,共{{pageCount}}页,{{totalcount}}条</li>
+			</ol>
+		</div>
+		
+		<div class="message-list-separent"><child :lists="lists"></child></div> <!-- 需要动态绑定到子组件 -->
+	</div>
+	
+	<a href="index_n.html">index_n</a>
+	<script src="vue.js"></script>
+	<script src="index.js"></script>
+</body>
+</html>

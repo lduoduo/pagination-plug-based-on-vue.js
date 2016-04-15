@@ -1,0 +1,22 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duoduo",
+  "license": "MIT",
+  "devDependencies": {
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.0.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "http": "0.0.0"
+  }
+}

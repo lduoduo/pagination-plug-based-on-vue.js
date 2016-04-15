@@ -1,0 +1,1012 @@
+{
+    "LineInfroList": [
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/QUtPVC_150x150_00.jpg",
+            "LineId": 43637,
+            "LineMainTitle": "【宋城花痴节】杭州宋城千古情主题酒店（西湖店），自选宋城景区看千古情...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 788,
+            "LineAmountDirt": 319,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/qFsgYL_150x150_00.jpg",
+            "LineId": 21848,
+            "LineMainTitle": "【横店影视城内赏花】横店影视城联票2张，住商务型酒店1晚【 程意品质...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1960,
+            "LineAmountDirt": 698,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.9,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "金华"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/24/13/k4ppRi_150x150_00.jpg",
+            "LineId": 35117,
+            "LineMainTitle": "【4.9-5.5尚湖牡丹节】常熟裕坤国贸酒店+自选虞山/尚湖/沙家浜",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1380,
+            "LineAmountDirt": 399,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 3,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "苏州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/AMhoic_150x150_00.jpg",
+            "LineId": 46658,
+            "LineMainTitle": "【宋城花痴节】入住杭州宋城第一世界大酒店自选烂苹果乐园或云曼温泉",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1498,
+            "LineAmountDirt": 798,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/FPoUQh_150x150_00.jpg",
+            "LineId": 72343,
+            "LineMainTitle": "【宏村赏油菜花】【徽州之美】住黄山天都国际饭店，自选醉温泉or宏村o...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 830,
+            "LineAmountDirt": 199,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 2,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "黄山"
+        },
+        {
+            "TravelDays": 1,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/04/02/17/98nXJa_150x150_00.jpg",
+            "LineId": 25283,
+            "LineMainTitle": "【鼋头渚赏樱花】无锡华美达广场酒店1晚，自选梅园or灵山大佛or鼋头...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 598,
+            "LineAmountDirt": 499,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 8,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "无锡"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/19/13/WX1tJg_150x150_00.jpg",
+            "LineId": 44569,
+            "LineMainTitle": "【千岛湖赏油菜花】【千岛湖爆款疯抢】千岛湖玉翰主题酒店1晚，景点、套...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 218,
+            "LineAmountDirt": 119,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.5,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/fzxI7c_150x150_00.jpg",
+            "LineId": 48921,
+            "LineMainTitle": "【百年鼋头渚】无锡舜天碧波度假村1晚 自选无锡鼋头渚or三国水浒城o...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1100,
+            "LineAmountDirt": 269,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.6,
+            "Discount": 2,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "无锡"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/DX7dXi_150x150_00.jpg",
+            "LineId": 84823,
+            "LineMainTitle": "【苏州赏花】【爱在清山绿水间，踏青赏花两相宜】住苏州清山会议中心1晚...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1560,
+            "LineAmountDirt": 599,
+            "ToDayBooking": "",
+            "DpGrade": 4.7,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "苏州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/IaTBuB_150x150_00.jpg",
+            "LineId": 78755,
+            "LineMainTitle": "【鼋头渚赏樱花】无锡雷迪森广场酒店1晚 自选三国水浒城/鼋头渚/蠡园...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 488,
+            "LineAmountDirt": 469,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 10,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "无锡"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/HZVAsU_150x150_00.jpg",
+            "LineId": 98138,
+            "LineMainTitle": "赏武汉云雾山美景，入住木兰华晨假日酒店",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 296,
+            "LineAmountDirt": 249,
+            "ToDayBooking": "",
+            "DpGrade": 0,
+            "Discount": 8,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "武汉"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/FSERrt_150x150_00.png",
+            "LineId": 98189,
+            "LineMainTitle": "木兰云雾山门票2张，游云雾山，入住景区内云雾山大酒店",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 689,
+            "LineAmountDirt": 240,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 0,
+            "Discount": 3,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "武汉"
+        },
+        {
+            "TravelDays": 3,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/12/02/17/DIAbMR_150x150_00.jpg",
+            "LineId": 98303,
+            "LineMainTitle": "【三天两晚更尽兴】杭州天域开元酒店，体验养生情怀",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 998,
+            "LineAmountDirt": 998,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 0,
+            "Discount": 10,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/lzCUrP_150x150_00.jpg",
+            "LineId": 51054,
+            "LineMainTitle": "【下渚湖湿地赏油菜花】德清武康瑞晶假日酒店1晚  莫干山、下渚湖 自...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 518,
+            "LineAmountDirt": 265,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.5,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "湖州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/oYXsM8_150x150_00.jpg",
+            "LineId": 55067,
+            "LineMainTitle": "【明堂山赏杜鹃花】明堂山景区门票2张/天峡景区门票2张/彩虹瀑布景区...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 110,
+            "LineAmountDirt": 40,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 5,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "安庆"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2016/02/16/18/0yhaUQ_150x150_00.jpg",
+            "LineId": 74684,
+            "LineMainTitle": "【森林公园赏桃花，清新自然】海湾国家森林公园门票2张加上海宏达山庄1...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 499,
+            "LineAmountDirt": 99,
+            "ToDayBooking": "",
+            "DpGrade": 4.3,
+            "Discount": 2,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "上海"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/FPoUQh_150x150_00.jpg",
+            "LineId": 77018,
+            "LineMainTitle": "【宏村赏油菜花】【宏村景区内客栈精选】宏村汪家老宅精品客栈/宏村小桥...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 427,
+            "LineAmountDirt": 318,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 7,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "黄山"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/pTBf9S_150x150_00.jpg",
+            "LineId": 81489,
+            "LineMainTitle": "【杭州赏花】入住杭州海外海皇冠假日酒店，自选套餐（单房可预订）",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1299,
+            "LineAmountDirt": 649,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 5,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/HbBE42_150x150_00.jpg",
+            "LineId": 80718,
+            "LineMainTitle": "【四明山赏百花】四季青藤余姚姚江文化主题酒店，景点自选，免费双早",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 499,
+            "LineAmountDirt": 240,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "宁波"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/QUtPVC_150x150_00.jpg",
+            "LineId": 43637,
+            "LineMainTitle": "【宋城花痴节】杭州宋城千古情主题酒店（西湖店），自选宋城景区看千古情...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 788,
+            "LineAmountDirt": 319,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/qFsgYL_150x150_00.jpg",
+            "LineId": 21848,
+            "LineMainTitle": "【横店影视城内赏花】横店影视城联票2张，住商务型酒店1晚【 程意品质...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1960,
+            "LineAmountDirt": 698,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.9,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "金华"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/24/13/k4ppRi_150x150_00.jpg",
+            "LineId": 35117,
+            "LineMainTitle": "【4.9-5.5尚湖牡丹节】常熟裕坤国贸酒店+自选虞山/尚湖/沙家浜",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1380,
+            "LineAmountDirt": 399,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 3,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "苏州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/AMhoic_150x150_00.jpg",
+            "LineId": 46658,
+            "LineMainTitle": "【宋城花痴节】入住杭州宋城第一世界大酒店自选烂苹果乐园或云曼温泉",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1498,
+            "LineAmountDirt": 798,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/FPoUQh_150x150_00.jpg",
+            "LineId": 72343,
+            "LineMainTitle": "【宏村赏油菜花】【徽州之美】住黄山天都国际饭店，自选醉温泉or宏村o...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 830,
+            "LineAmountDirt": 199,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 2,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "黄山"
+        },
+        {
+            "TravelDays": 1,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/04/02/17/98nXJa_150x150_00.jpg",
+            "LineId": 25283,
+            "LineMainTitle": "【鼋头渚赏樱花】无锡华美达广场酒店1晚，自选梅园or灵山大佛or鼋头...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 598,
+            "LineAmountDirt": 499,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 8,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "无锡"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/19/13/WX1tJg_150x150_00.jpg",
+            "LineId": 44569,
+            "LineMainTitle": "【千岛湖赏油菜花】【千岛湖爆款疯抢】千岛湖玉翰主题酒店1晚，景点、套...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 218,
+            "LineAmountDirt": 119,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.5,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/fzxI7c_150x150_00.jpg",
+            "LineId": 48921,
+            "LineMainTitle": "【百年鼋头渚】无锡舜天碧波度假村1晚 自选无锡鼋头渚or三国水浒城o...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1100,
+            "LineAmountDirt": 269,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.6,
+            "Discount": 2,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "无锡"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/DX7dXi_150x150_00.jpg",
+            "LineId": 84823,
+            "LineMainTitle": "【苏州赏花】【爱在清山绿水间，踏青赏花两相宜】住苏州清山会议中心1晚...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1560,
+            "LineAmountDirt": 599,
+            "ToDayBooking": "",
+            "DpGrade": 4.7,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "苏州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/IaTBuB_150x150_00.jpg",
+            "LineId": 78755,
+            "LineMainTitle": "【鼋头渚赏樱花】无锡雷迪森广场酒店1晚 自选三国水浒城/鼋头渚/蠡园...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 488,
+            "LineAmountDirt": 469,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 10,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "无锡"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/HZVAsU_150x150_00.jpg",
+            "LineId": 98138,
+            "LineMainTitle": "赏武汉云雾山美景，入住木兰华晨假日酒店",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 296,
+            "LineAmountDirt": 249,
+            "ToDayBooking": "",
+            "DpGrade": 0,
+            "Discount": 8,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "武汉"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/FSERrt_150x150_00.png",
+            "LineId": 98189,
+            "LineMainTitle": "木兰云雾山门票2张，游云雾山，入住景区内云雾山大酒店",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 689,
+            "LineAmountDirt": 240,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 0,
+            "Discount": 3,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "武汉"
+        },
+        {
+            "TravelDays": 3,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/12/02/17/DIAbMR_150x150_00.jpg",
+            "LineId": 98303,
+            "LineMainTitle": "【三天两晚更尽兴】杭州天域开元酒店，体验养生情怀",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 998,
+            "LineAmountDirt": 998,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 0,
+            "Discount": 10,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": false,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/lzCUrP_150x150_00.jpg",
+            "LineId": 51054,
+            "LineMainTitle": "【下渚湖湿地赏油菜花】德清武康瑞晶假日酒店1晚  莫干山、下渚湖 自...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 518,
+            "LineAmountDirt": 265,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.5,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "湖州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/oYXsM8_150x150_00.jpg",
+            "LineId": 55067,
+            "LineMainTitle": "【明堂山赏杜鹃花】明堂山景区门票2张/天峡景区门票2张/彩虹瀑布景区...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 110,
+            "LineAmountDirt": 40,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 5,
+            "Discount": 4,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "安庆"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2016/02/16/18/0yhaUQ_150x150_00.jpg",
+            "LineId": 74684,
+            "LineMainTitle": "【森林公园赏桃花，清新自然】海湾国家森林公园门票2张加上海宏达山庄1...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 499,
+            "LineAmountDirt": 99,
+            "ToDayBooking": "",
+            "DpGrade": 4.3,
+            "Discount": 2,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "上海"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/FPoUQh_150x150_00.jpg",
+            "LineId": 77018,
+            "LineMainTitle": "【宏村赏油菜花】【宏村景区内客栈精选】宏村汪家老宅精品客栈/宏村小桥...",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 427,
+            "LineAmountDirt": 318,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.8,
+            "Discount": 7,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "黄山"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/12/pTBf9S_150x150_00.jpg",
+            "LineId": 81489,
+            "LineMainTitle": "【杭州赏花】入住杭州海外海皇冠假日酒店，自选套餐（单房可预订）",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 1299,
+            "LineAmountDirt": 649,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 5,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "杭州"
+        },
+        {
+            "TravelDays": 2,
+            "LineImageUrl": "http://pic3.40017.cn/zzy/rimage/2015/03/17/11/HbBE42_150x150_00.jpg",
+            "LineId": 80718,
+            "LineMainTitle": "【四明山赏百花】四季青藤余姚姚江文化主题酒店，景点自选，免费双早",
+            "LineSubTitle": "",
+            "LineAmountAdvice": 499,
+            "LineAmountDirt": 240,
+            "ToDayBooking": "今日出游",
+            "DpGrade": 4.7,
+            "Discount": 5,
+            "TitleLabel": "四月赏花季",
+            "IsRedPackage": true,
+            "TCLine": "",
+            "CityName": "宁波"
+        }
+    ],
+    "SelectItemList": [
+        {
+            "TitleName": "目的地",
+            "MarkDes": "citys",
+            "SelectList": [
+                {
+                    "Name": "保定",
+                    "Value": "139"
+                },
+                {
+                    "Name": "菏泽",
+                    "Value": "286"
+                },
+                {
+                    "Name": "重庆",
+                    "Value": "394"
+                },
+                {
+                    "Name": "洛阳",
+                    "Value": "155"
+                },
+                {
+                    "Name": "丽水",
+                    "Value": "387"
+                },
+                {
+                    "Name": "金华",
+                    "Value": "386"
+                },
+                {
+                    "Name": "石家庄",
+                    "Value": "146"
+                },
+                {
+                    "Name": "嘉兴",
+                    "Value": "385"
+                },
+                {
+                    "Name": "湖州",
+                    "Value": "384"
+                },
+                {
+                    "Name": "绍兴",
+                    "Value": "389"
+                },
+                {
+                    "Name": "宁波",
+                    "Value": "388"
+                },
+                {
+                    "Name": "池州",
+                    "Value": "39"
+                },
+                {
+                    "Name": "安庆",
+                    "Value": "36"
+                },
+                {
+                    "Name": "宝鸡",
+                    "Value": "312"
+                },
+                {
+                    "Name": "黄山",
+                    "Value": "45"
+                },
+                {
+                    "Name": "宣城",
+                    "Value": "51"
+                },
+                {
+                    "Name": "芜湖",
+                    "Value": "50"
+                },
+                {
+                    "Name": "龙岩",
+                    "Value": "55"
+                },
+                {
+                    "Name": "青岛",
+                    "Value": "292"
+                },
+                {
+                    "Name": "福州",
+                    "Value": "54"
+                },
+                {
+                    "Name": "北京",
+                    "Value": "53"
+                },
+                {
+                    "Name": "威海",
+                    "Value": "295"
+                },
+                {
+                    "Name": "泉州",
+                    "Value": "59"
+                },
+                {
+                    "Name": "烟台",
+                    "Value": "297"
+                },
+                {
+                    "Name": "漳州",
+                    "Value": "62"
+                },
+                {
+                    "Name": "黄冈",
+                    "Value": "183"
+                },
+                {
+                    "Name": "晋城",
+                    "Value": "302"
+                },
+                {
+                    "Name": "厦门",
+                    "Value": "61"
+                },
+                {
+                    "Name": "湘潭",
+                    "Value": "205"
+                },
+                {
+                    "Name": "天津",
+                    "Value": "343"
+                },
+                {
+                    "Name": "长沙",
+                    "Value": "199"
+                },
+                {
+                    "Name": "东莞",
+                    "Value": "78"
+                },
+                {
+                    "Name": "佛山",
+                    "Value": "79"
+                },
+                {
+                    "Name": "武汉",
+                    "Value": "192"
+                },
+                {
+                    "Name": "咸宁",
+                    "Value": "194"
+                },
+                {
+                    "Name": "常州",
+                    "Value": "221"
+                },
+                {
+                    "Name": "清远",
+                    "Value": "87"
+                },
+                {
+                    "Name": "成都",
+                    "Value": "324"
+                },
+                {
+                    "Name": "广州",
+                    "Value": "80"
+                },
+                {
+                    "Name": "江门",
+                    "Value": "83"
+                },
+                {
+                    "Name": "上海",
+                    "Value": "321"
+                },
+                {
+                    "Name": "惠州",
+                    "Value": "82"
+                },
+                {
+                    "Name": "云浮",
+                    "Value": "93"
+                },
+                {
+                    "Name": "肇庆",
+                    "Value": "95"
+                },
+                {
+                    "Name": "绵阳",
+                    "Value": "333"
+                },
+                {
+                    "Name": "乐山",
+                    "Value": "330"
+                },
+                {
+                    "Name": "凉山彝族自治州",
+                    "Value": "331"
+                },
+                {
+                    "Name": "深圳",
+                    "Value": "91"
+                },
+                {
+                    "Name": "韶关",
+                    "Value": "90"
+                },
+                {
+                    "Name": "桂林",
+                    "Value": "102"
+                },
+                {
+                    "Name": "昆明",
+                    "Value": "373"
+                },
+                {
+                    "Name": "珠海",
+                    "Value": "97"
+                },
+                {
+                    "Name": "扬州",
+                    "Value": "232"
+                },
+                {
+                    "Name": "盐城",
+                    "Value": "231"
+                },
+                {
+                    "Name": "南宁",
+                    "Value": "108"
+                },
+                {
+                    "Name": "杭州",
+                    "Value": "383"
+                },
+                {
+                    "Name": "无锡",
+                    "Value": "229"
+                },
+                {
+                    "Name": "泰州",
+                    "Value": "228"
+                },
+                {
+                    "Name": "曲靖",
+                    "Value": "377"
+                },
+                {
+                    "Name": "苏州",
+                    "Value": "226"
+                },
+                {
+                    "Name": "贺州",
+                    "Value": "105"
+                },
+                {
+                    "Name": "南京",
+                    "Value": "224"
+                },
+                {
+                    "Name": "毕节",
+                    "Value": "113"
+                },
+                {
+                    "Name": "安顺",
+                    "Value": "112"
+                },
+                {
+                    "Name": "上饶",
+                    "Value": "241"
+                }
+            ],
+            "SelectListChecked": [
+                {
+                    "Name": "不限",
+                    "Value": ""
+                }
+            ]
+        },
+        {
+            "TitleName": "旅游主题",
+            "MarkDes": "theme",
+            "SelectList": [
+                {
+                    "Name": "主题乐园",
+                    "Value": "161"
+                },
+                {
+                    "Name": "森林公园",
+                    "Value": "162"
+                },
+                {
+                    "Name": "古镇",
+                    "Value": "175"
+                },
+                {
+                    "Name": "海岛",
+                    "Value": "177"
+                },
+                {
+                    "Name": "漂流",
+                    "Value": "182"
+                },
+                {
+                    "Name": "水上世界",
+                    "Value": "190"
+                },
+                {
+                    "Name": "动物园",
+                    "Value": "187"
+                }
+            ],
+            "SelectListChecked": [
+                {
+                    "Name": "不限",
+                    "Value": ""
+                }
+            ]
+        },
+        {
+            "TitleName": "酒店等级",
+            "MarkDes": "hotel",
+            "SelectList": [
+                {
+                    "Name": "五星级 / 豪华型",
+                    "Value": "23,28"
+                },
+                {
+                    "Name": "四星级 / 高档型",
+                    "Value": "24,30"
+                },
+                {
+                    "Name": "三星级 / 舒适型",
+                    "Value": "26,31"
+                },
+                {
+                    "Name": "二星级 / 经济型",
+                    "Value": "27,32"
+                }
+            ],
+            "SelectListChecked": [
+                {
+                    "Name": "不限",
+                    "Value": ""
+                }
+            ]
+        },
+        {
+            "TitleName": "花费预算",
+            "MarkDes": "price",
+            "SelectList": [
+                {
+                    "Name": "¥150以下",
+                    "Value": "1"
+                },
+                {
+                    "Name": "¥151-¥300",
+                    "Value": "2"
+                },
+                {
+                    "Name": "¥301-¥500",
+                    "Value": "3"
+                },
+                {
+                    "Name": "¥501-¥1000",
+                    "Value": "4"
+                },
+                {
+                    "Name": "¥1000以上",
+                    "Value": "5"
+                }
+            ],
+            "SelectListChecked": [
+                {
+                    "Name": "不限",
+                    "Value": ""
+                }
+            ]
+        },
+        {
+            "TitleName": "游玩天数",
+            "MarkDes": "days",
+            "SelectList": [
+                {
+                    "Name": "2天1晚",
+                    "Value": "1"
+                },
+                {
+                    "Name": "3天2晚",
+                    "Value": "2"
+                },
+                {
+                    "Name": "4天3晚",
+                    "Value": "3"
+                }
+            ],
+            "SelectListChecked": [
+                {
+                    "Name": "不限",
+                    "Value": ""
+                }
+            ]
+        }
+    ],
+    "RspStatus": true,
+    "RspDesc": ""
+}
